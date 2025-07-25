@@ -1,4 +1,4 @@
-nfrastructure Setup:
+Infrastructure Setup:
 
 VPC with public subnets
 
